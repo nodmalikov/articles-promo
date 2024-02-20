@@ -110,7 +110,6 @@ img {
     background-color: rgba(30, 144, 255, 0.6);
 }
 
-
 .hero-link-wrapper {
     display: flex;
     justify-content: center;
@@ -135,6 +134,7 @@ img {
     background-size: contain;
     background-position: center center;
 }
+
 
 /* ARTICLES */
 .articles {
