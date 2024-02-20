@@ -68,6 +68,8 @@ img {
     display: flex;
 }
 
+
+/* HERO */
 .hero {
     width: 100%;
     max-width: 600px;
@@ -80,7 +82,6 @@ img {
     background-position: center bottom;
 }
 
-/* HERO */
 .hero-wrapper {
     width: 100%;
     max-width: 285px;
